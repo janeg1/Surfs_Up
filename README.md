@@ -5,6 +5,7 @@ We were presented with sqlite file, that had info on 2 tables, Measurments and S
 
 ### Results.
 We analized the weather for June and December and we can determine that average weather is:
+
 *max temps are almost the same (June 85', Dec 83'),
 *min temps slightly different (June 64', Dec 56'),
 *mean temps (June 75', Dec 71').
